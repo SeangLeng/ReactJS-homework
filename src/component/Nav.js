@@ -4,7 +4,7 @@ function Nav() {
     return (
         <nav class="navbar navbar-expand-lg bg-body-tertiary position-fixed t-0 z-2 w-100">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">Anime</a>
+                <a class="navbar-brand" href="#">Anime Wallpaper</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
